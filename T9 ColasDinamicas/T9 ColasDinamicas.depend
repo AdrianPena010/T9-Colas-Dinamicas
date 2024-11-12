@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1731363058 source:c:\users\adrián\desktop\programación en c++\arboles\t9 colasdinamicas\main.cpp
+	<iostream>
+	"colat9.h"
+
+1731363184 source:c:\users\adrián\desktop\programación en c++\arboles\t9 colasdinamicas\src\colat9.cpp
+	"colat9.h"
+
+1731362921 c:\users\adrián\desktop\programación en c++\arboles\t9 colasdinamicas\include\colat9.h
+	<iostream>
+
+1731438550 source:c:\users\adrián\desktop\tareasprog\tareas sspedi\t9 colasdinamicas\main.cpp
+	<iostream>
+	"colat9.h"
+
+1731438669 c:\users\adrián\desktop\tareasprog\tareas sspedi\t9 colasdinamicas\include\colat9.h
+	<iostream>
+
+1731438669 source:c:\users\adrián\desktop\tareasprog\tareas sspedi\t9 colasdinamicas\src\colat9.cpp
+	"colat9.h"
+
